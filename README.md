@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 Welcome to my GitHub profile!
+
+I am Katelyn Chadwell, though most call me Katy. I live in Terrell, Texas with my husband Austin, dog Chuck, and cats Jade and Talon.
+
+## Technology Experience
+* 
 
 <!--
 **klay824/klay824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,7 +14,7 @@ Please feel free to look around!
 
 <br>
 
-## - 🔭 I’m currently working on a readme generator using Node.js
+## - 🔭 I’m currently working on a team profile generator using Node.js
 
 <br>
 

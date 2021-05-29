@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my GitHub profile!
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub profile!
 
 <br>
 
@@ -30,5 +30,9 @@ Please feel free to look around!
 
 ## - 📫 How to reach me:
 
-- [Email](mailto:kchadwell0226@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/katy-chadwell/)
+<a href="mailto:kchadwell0226@gmail.com">
+  <img alt="Katy's Email" width="40px" src="images/icons8-gmail-48.png" />
+</a>
+<a href="https://www.linkedin.com/in/katy-chadwell/">
+    <img alt="Katy's LinkedIn" width="40px" src="images/icons8-linkedin-40.png" />
+</a>

@@ -31,5 +31,4 @@ Please feel free to look around!
 ## - 📫 How to reach me:
 
 - [Email](mailto:kchadwell0226@gmail.com)
-- [Phone](tel:+9729778103)
 - [LinkedIn](https://www.linkedin.com/in/katy-chadwell/)

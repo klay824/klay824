@@ -23,8 +23,9 @@ Please feel free to look around!
 - Sequelize
 - MongoDB
 - Mongoose
+- React
 
-## - 🔭 I’m currently working on a fitness tracker using Node.js, MongoDB, and Mongoose ODM
+## - 🔭 I’m currently collaborating on a DIY project manager app using the MERN stack. I am responsible for setting up React and several of the key components.
 
 <br>
 

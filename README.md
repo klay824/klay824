@@ -14,7 +14,7 @@ Please feel free to look around!
 - HTML 5
 - CSS 3
 - JavaScript
-- JQuery
+- jQuery
 - Third-Party APIs
 - Node.JS
 - Jest.JS

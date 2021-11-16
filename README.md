@@ -25,7 +25,6 @@ Please feel free to look around!
 - Mongoose
 - React
 
-## - 🔭 I just finished collaborating on a DIY project managemnent app where I was responsible for setting up React, backend aggregation, and a few key React components. I am currently taking an Angular course on Udemy and working on a social media app using the MERN stack.
 
 <br>
 
